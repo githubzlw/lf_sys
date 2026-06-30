@@ -12,7 +12,7 @@ start "会员系统-前端" cmd /c "cd /d %~dp0frontend && npx vite --host"
 
 echo.
 echo ============================
-echo   启动完成! 
+echo   启动完成!!!
 echo   请访问 http://localhost:5173
 echo   账号: admin  密码: admin123
 echo ============================
